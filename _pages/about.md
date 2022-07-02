@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau). I am grateful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/). This year, I am a student co-organizer of the [Research on Algorithms and Incentives in Networks (RAIN) seminar](https://rain.stanford.edu/). 
+I am a third year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, working with [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau) and [Itai Ashlagi](https://web.stanford.edu/~iashlagi/). I am grateful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/) and the [Stanford Technology & Racial Equity Graduate Fellowship](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) (2022-2023). Since 2021, I have been a student co-organizer of the [Research on Algorithms and Incentives in Networks (RAIN) seminar](https://rain.stanford.edu/). 
 
 In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee). I formerly interned at [Columbia Business School](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations), [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
 
@@ -20,19 +20,9 @@ You can reach me at gzguan at stanford dot edu!
 
 Updates
 ------
+* **[July 2022]** Excited to be a [Stanford Technology & Racial Equity Graduate Fellow](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) next year!
+
 * **[April 2022]** Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)!
-
-* **[October 2021]** Presented our paper on using human mobility data to detect COVID-19 outbreaks at INFORMS Annual Meeting
-
-* **[October 2021]** Presented our cost-effectiveness analysis of approaches to identify infants at risk of early onset sepsis at Society for Medical Decision Making Annual Meeting
-
-* **[September 2021]** Our paper on analyzing reactions to the third COVID-19 vaccination is out as a preprint!
-
-* **[August 2021]** Presented our cost-effectiveness analysis of approaches to identify infants at risk of early onset sepsis at Pediatric Hospital Medicine Conference
-
-* **[July 2021]** Our paper on using human mobility data to detect COVID-19 outbreaks was published!
-
-* **[July 2021]** Presented our paper on using human mobility data to detect COVID-19 outbreaks, and our work on empirical characteristics of Affordable Care Act risk transfers at INFORMS Healthcare
 
 
 
