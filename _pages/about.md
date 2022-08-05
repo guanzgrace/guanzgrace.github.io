@@ -20,7 +20,7 @@ You can reach me at gzguan at stanford dot edu!
 
 Updates
 ------
-* **[July 2022]** Excited to be a [Stanford Technology & Racial Equity Graduate Fellow](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) next year!
+* **[August 2022]** Excited to be a [Stanford Technology & Racial Equity Graduate Fellow](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) next year!
 
 * **[April 2022]** Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)!
 
