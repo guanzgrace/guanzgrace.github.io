@@ -15,30 +15,30 @@ author_profile: true
 Publications
 ------
 
+* **Guan G**, Mofaz M, Qian G, Patalon T, Shmueli E, Yamin D, and ML Brandeau. **Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**. *npj Digital Medicine*, 2022, accepted. [[code](https://github.com/permedtau/covid-vaccines-smartwatch-sensitivity-paper)]
+
+
 * Mofaz M, Yechezkel M, **Guan G**, Brandeau ML, Patalon T, Gazit S, Yamin D, and E Shmueli. **Self-reported and physiological reactions to the third BNT162b2 mRNA COVID-19 (booster) vaccine dose**. *Emerging Infectious Diseases*, 2022, 28(7):1375-1383. [[paper](https://wwwnc.cdc.gov/eid/article/28/7/21-2330_article)]
 
 
-* **Guan G**, Dery Y, Yechezkel M, Ben-Gal I, Yamin D, and ML Brandeau. **Early Detection of COVID-19 Outbreaks Using Human Mobility Data**. *PLoS ONE*, 2021, 16(7):e0253865. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
+* **Guan G**, Dery Y, Yechezkel M, Ben-Gal I, Yamin D, and ML Brandeau. **Early detection of COVID-19 outbreaks using human mobility data**. *PLoS ONE*, 2021, 16(7):e0253865. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
 
 
-* **Guan G** and BE Engelhardt. **Predicting Sick Patient Volume in a Pediatric Outpatient Setting using Time Series Analysis**. *Proceedings of Machine Learning Research*, 2019, 106:271-287. [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
+* **Guan G** and BE Engelhardt. **Predicting sick patient volume in a pediatric outpatient setting using time series analysis**. *Proceedings of Machine Learning Research*, 2019, 106:271-287. [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
 
 
 
 Working Papers
 ------
 
-* **Guan G**, Mofaz M, Qian G, Patalon T, Shmueli E, Yamin D, and ML Brandeau. **Higher sensitivity monitoring of reactions to vaccines using smartwatches: Evidence from a large-scale prospective study**.
-
-
-* **Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD and DK Owens. **A Cost-Effectiveness Analysis of Approaches to Identify Infants at Risk for Early Onset Sepsis**.
+* **Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD and DK Owens. **A cost effectiveness analysis of approaches to identify infants at risk for early onset sepsis**.
 
 
 
 Other
 ------
 
-* **Guan G** and M Braverman. **Empirical Characteristics of Affordable Care Act Risk Transfers**. [[arxiv](https://arxiv.org/abs/2208.02372)]
+* **Guan G** and M Braverman. **Empirical characteristics of Affordable Care Act risk transfers**. [[paper](https://arxiv.org/abs/2208.02372)]
     - Princeton CS Senior Thesis.
     - **Won Outstanding Computer Science Senior Thesis Prize**
 
@@ -47,23 +47,28 @@ Other
 Conference Talks and Posters
 ------
 
-* "Empirical Characteristics of Affordable Care Act Risk Transfers"
+* "Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches"
+    - SMDM Annual Meeting, Seattle, WA, 2022 [poster]
+    - INFORMS Annual Meeting, Indianapolis, IN, 2022 [talk]
+
+
+* "Empirical characteristics of Affordable Care Act risk transfers"
     - INFORMS Healthcare, Virtual, 2021 [talk]
     - Princeton Research Day, Princeton, NJ, 2018 [poster] [**Won Princeton's Choice Award**]
 
 
-* "A Cost-Effectiveness Analysis of Approaches to Identify Infants at Risk for Early Onset Sepsis"
+* "A cost effectiveness analysis of approaches to identify infants at risk for early onset sepsis"
     - The Decision Sciences for Child Health Collaborative at SMDM, Virtual, 2021 [invited talk]
     - SMDM Annual Meeting, Virtual, 2021 [poster]
     - Pediatric Hospital Medicine Conference, Virtual, 2021 [poster]
 
 
-* "Early Detection of COVID-19 Outbreaks Using Human Mobility Data"
+* "Early detection of COVID-19 outbreaks using human mobility data"
     - INFORMS Annual Meeting, Virtual, 2021 [talk]
     - INFORMS Healthcare Conference, Virtual, 2021 [talk]
 
 
-* "Predicting Sick Patient Volume in a Pediatric Outpatient Setting using Time Series Analysis"
+* "Predicting sick patient volume in a pediatric outpatient setting using time series analysis"
     - Machine Learning for Healthcare Conference, Ann Arbor, MI, 2019 [poster and talk]
 
 
