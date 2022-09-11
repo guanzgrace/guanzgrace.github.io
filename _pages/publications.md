@@ -15,7 +15,7 @@ author_profile: true
 Publications
 ------
 
-* **Guan G**, Mofaz M, Qian G, Patalon T, Shmueli E, Yamin D, and ML Brandeau. **Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**. *npj Digital Medicine*, 2022, accepted. [[code](https://github.com/permedtau/covid-vaccines-smartwatch-sensitivity-paper)]
+* **Guan G**, Mofaz M, Qian G, Patalon T, Shmueli E, Yamin D, and ML Brandeau. **Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**. *npj Digital Medicine*, 2022, 5: 140. [[paper](https://www.nature.com/articles/s41746-022-00683-w)] [[code](https://github.com/permedtau/covid-vaccines-smartwatch-sensitivity-paper)]
 
 
 * Mofaz M, Yechezkel M, **Guan G**, Brandeau ML, Patalon T, Gazit S, Yamin D, and E Shmueli. **Self-reported and physiological reactions to the third BNT162b2 mRNA COVID-19 (booster) vaccine dose**. *Emerging Infectious Diseases*, 2022, 28(7):1375-1383. [[paper](https://wwwnc.cdc.gov/eid/article/28/7/21-2330_article)]
@@ -31,7 +31,7 @@ Publications
 Working Papers
 ------
 
-* **Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD and DK Owens. **A cost effectiveness analysis of approaches to identify infants at risk for early onset sepsis**.
+* **Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD, and DK Owens. **A cost effectiveness analysis of approaches to identify infants at risk for early onset sepsis**.
 
 
 

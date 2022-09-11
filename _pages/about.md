@@ -20,7 +20,11 @@ You can reach me at gzguan at stanford dot edu!
 
 Updates
 ------
+* **[September 2022]** Our[[paper](https://www.nature.com/articles/s41746-022-00683-w)] has been published in npj Digital Medicine! I will be presenting this paper at INFORMS 2022 and SMDM 2022 in October.
+
 * **[August 2022]** Excited to be a [Stanford Technology & Racial Equity Graduate Fellow](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) next year!
+
+* **[July 2022]** Our[[paper](https://wwwnc.cdc.gov/eid/article/28/7/21-2330_article)] has been published in Emerging Infectious Diseases (the journal of the CDC)!
 
 * **[April 2022]** Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)!
 
