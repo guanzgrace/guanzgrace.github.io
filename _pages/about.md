@@ -12,9 +12,9 @@ I am a third year PhD student in [Management Science and Engineering](https://ms
 
 In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee). I formerly interned at [Columbia Business School](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations), [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
 
-I'm interested in developing new methods inspired by computer science and operations research to improve the quality of patient care, both at the population health level and at the clinical level.
+In my free time, you can find me running, swimming, and hiking.
 
-You can reach me at gzguan at stanford dot edu!
+You can reach me at gzguan at stanford dot edu.
 
 [Link to my CV](https://drive.google.com/file/d/17SoBp7t2NAmZMDf0a1w4YG38mx5zj2De/view?usp=sharing)
 

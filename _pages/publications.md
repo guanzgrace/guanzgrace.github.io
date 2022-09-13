@@ -34,6 +34,9 @@ Working Papers
 * **Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD, and DK Owens. **A cost effectiveness analysis of approaches to identify infants at risk for early onset sepsis**.
 
 
+* **Machine Learning for Deceased Donor Kidney Allocation**. with Nikhil Agarwal, Itai Ashlagi, Jamie Kang, Paulo Somaini, and Jiacheng Zou (alphabetical)
+
+
 
 Other
 ------
