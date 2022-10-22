@@ -16,7 +16,7 @@ Conference Publications
 ------
 
 * **Guan G** and BE Engelhardt. **Predicting sick patient volume in a pediatric outpatient setting using time series analysis**. Machine Learning for Healthcare 2019
-- Also in *Proceedings of Machine Learning Research*, 2019, 106:271-287. [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
+    - Also in *Proceedings of Machine Learning Research*, 2019, 106:271-287. [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
 
 
 Journal Publications
@@ -39,7 +39,7 @@ Working Papers
 
 
 * **Machine Learning for Deceased Donor Kidney Allocation**. with Nikhil Agarwal, Itai Ashlagi, Jamie Kang, Paulo Somaini, and Jiacheng Zou (alphabetical)
-- Preliminary version in NeurIPS 2022 Workshop on Learning from Time Series for Health.
+    - Preliminary version in NeurIPS 2022 Workshop on Learning from Time Series for Health.
 
 
 Other
