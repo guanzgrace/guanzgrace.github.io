@@ -5,14 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Research
 
-{% include base_path %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xcJ3x40AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
-# Working Papers
+## Working Papers
 
 
 **Machine Learning for Deceased Donor Kidney Allocation**\
@@ -24,7 +22,10 @@ Preliminary version in NeurIPS 2022 Workshop on Learning from Time Series for He
 ***Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD, and DK Owens*
 
 
-# Conference Publications
+<br/><br/>
+
+
+## Conference Publications
 
 
 **Predicting sick patient volume in a pediatric outpatient setting using time series analysis**\
@@ -33,7 +34,10 @@ MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
 [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
 
 
-# Journal Publications
+<br/><br/>
+
+
+## Journal Publications
 
 
 **Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**\
@@ -54,20 +58,22 @@ MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
 
 
+<br/><br/>
 
 
-# Theses
+## Theses
 
 **Empirical characteristics of Affordable Care Act risk transfers**\
-***Grace Guan**, Mark Braverman*\
+***Grace Guan,*** *Mark Braverman*\
 Princeton Computer Science Senior Thesis\
 **Won Outstanding Computer Science Senior Thesis Prize**\
 [[paper](https://arxiv.org/abs/2208.02372)]
 
 
+<br/><br/>
 
 
-# Non-Archival Conference Talks and Posters
+## Non-Archival Conference Talks and Posters
 
 * "Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches"
     - SMDM Annual Meeting, Seattle, WA, 2022 [poster]
