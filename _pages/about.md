@@ -20,7 +20,7 @@ You can reach me at gzguan at stanford dot edu.
 
 Updates
 ------
-* **[October 2022]** Will be presenting part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health in December!
+* **[October 2022]** In December, I will be presenting part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health as a spotlight presentation ✨
 
 * **[September 2022]** Our [paper](https://www.nature.com/articles/s41746-022-00683-w) has been published in *npj Digital Medicine*! I will be presenting this paper at INFORMS 2022 and SMDM 2022 in October.
 
