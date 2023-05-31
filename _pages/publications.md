@@ -49,7 +49,7 @@ Emerging Infectious Diseases, 2022, 28(7):1375-1383\
 ***Grace Guan**, Yotam Dery, Matan Yechezkel, Irad Ben-Gal, Dan Yamin, and Margaret L. Brandeau*\
 PLoS ONE, 2021, 16(7):e0253865\
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
-
+Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)
 
 
 
@@ -65,6 +65,12 @@ Princeton Computer Science Senior Thesis\
 
 
 ## Non-Archival Conference Talks and Posters
+
+* "Machine learning for deceased donor kidney allocation"
+    - INFORMS Annual Meeting, Phoenix, AZ, 2023 [talk, forthcoming]
+    - INFORMS Healthcare, Toronto, Canada, 2023 [talk, forthcoming]
+    - NeurIPS Learning from Time Series for Health Workshop, New Orleans, LA, 2022 [spotlight talk]
+    - INFORMS Annual Meeting, Indianapolis, IN, 2022 [talk by coauthor]
 
 * "Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches"
     - SMDM Annual Meeting, Seattle, WA, 2022 [poster]
