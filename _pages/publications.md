@@ -26,8 +26,8 @@ Preliminary version in NeurIPS 2022 Workshop on Learning from Time Series for He
 [**Predicting sick patient volume in a pediatric outpatient setting using time series analysis**](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)\
 ***Grace Guan**, Barbara Engelhardt*\
 MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
-[[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]
-
+[[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]\
+🏆 Won 2020 [NCWIT Collegiate Award Honorable Mention](https://www.aspirations.org/news/2020-ncwit-collegiate-award-recipients-announced)
 
 
 
@@ -48,8 +48,8 @@ Emerging Infectious Diseases, 2022, 28(7):1375-1383\
 [**Early detection of COVID-19 outbreaks using human mobility data**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)\
 ***Grace Guan**, Yotam Dery, Matan Yechezkel, Irad Ben-Gal, Dan Yamin, and Margaret L. Brandeau*\
 PLoS ONE, 2021, 16(7):e0253865\
-[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
-Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)
+[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]\
+🏆 Won 2022 [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)
 
 
 
@@ -58,8 +58,8 @@ Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.e
 [**Empirical characteristics of Affordable Care Act risk transfers**](https://arxiv.org/abs/2208.02372)\
 ***Grace Guan,*** *Mark Braverman*\
 Princeton Computer Science Senior Thesis\
-**Won Outstanding Computer Science Senior Thesis Prize**\
-[[paper](https://arxiv.org/abs/2208.02372)]
+[[paper](https://arxiv.org/abs/2208.02372)]\
+🏆 Won Outstanding Computer Science Senior Thesis Prize
 
 
 

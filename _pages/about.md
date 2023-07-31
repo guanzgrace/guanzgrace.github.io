@@ -21,9 +21,9 @@ You can reach me at gzguan at stanford dot edu.
 Updates
 ------
 
-* **[July 2023]** Excited to present part of our machine learning for deceased donor kidney allocation project at INFORMS Healthcare in July and INFORMS Annual Meeting in October
+* **[October 2023]** Excited to present our machine learning for deceased donor kidney allocation project INFORMS Annual Meeting in October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
 
-* **[June 2023]** Thrilled to chair a session on [organ allocation modeling and policy](https://www.abstractsonline.com/pp8/#!/10855/session/91) at INFORMS Healthcare in July
+* **[July 2023]** Thrilled to chair a session on [organ allocation modeling and policy](https://www.abstractsonline.com/pp8/#!/10855/session/91) and present our machine learning for deceased donor kidney allocation project at INFORMS Healthcare
 
 * **[December 2022]** Presented part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health as a spotlight presentation ✨
 
