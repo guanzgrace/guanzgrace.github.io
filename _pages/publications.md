@@ -56,10 +56,11 @@ PLoS ONE, 2021, 16(7):e0253865\
 ## Theses
 
 [**Empirical characteristics of Affordable Care Act risk transfers**](https://arxiv.org/abs/2208.02372)\
-***Grace Guan,*** *Mark Braverman*\
+***Grace Guan**, advised by Mark Braverman*\
 Princeton Computer Science Senior Thesis\
 [[paper](https://arxiv.org/abs/2208.02372)]\
-🏆 Won Outstanding Computer Science Senior Thesis Prize
+🏆 Won Outstanding Computer Science Senior Thesis Prize\
+🏆 Won Princeton's Choice Award at Princeton Research Day 2018
 
 
 
@@ -68,7 +69,7 @@ Princeton Computer Science Senior Thesis\
 
 * "Machine learning for deceased donor kidney allocation"
     - INFORMS Annual Meeting, Phoenix, AZ, 2023 [talk, forthcoming]
-    - INFORMS Healthcare, Toronto, Canada, 2023 [talk, forthcoming]
+    - INFORMS Healthcare, Toronto, Canada, 2023 [talk]
     - NeurIPS Learning from Time Series for Health Workshop, New Orleans, LA, 2022 [spotlight talk]
     - INFORMS Annual Meeting, Indianapolis, IN, 2022 [talk by coauthor]
 
@@ -79,7 +80,7 @@ Princeton Computer Science Senior Thesis\
 
 * "Empirical characteristics of Affordable Care Act risk transfers"
     - INFORMS Healthcare, Virtual, 2021 [talk]
-    - Princeton Research Day, Princeton, NJ, 2018 [poster] [**Won Princeton's Choice Award**]
+    - Princeton Research Day, Princeton, NJ, 2018 [poster]
 
 
 * "Costs and resource utilization of approaches to identify infants with early onset sepsis"

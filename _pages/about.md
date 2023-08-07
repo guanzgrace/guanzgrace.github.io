@@ -38,4 +38,4 @@ Updates
 
 Other Projects
 ------
-* [Stretch Reminder Chrome Extension](http://guanzgrace.github.io/stretch) ([Beta Test Version](http://guanzgrace.github.io/stretch/beta)) (750+ daily users!)
+* [Stretch Reminder Chrome Extension](http://guanzgrace.github.io/stretch) ([Beta Test Version](http://guanzgrace.github.io/stretch/beta)) (1000+ daily users!)
