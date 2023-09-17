@@ -21,15 +21,15 @@ You can reach me at gzguan at stanford dot edu.
 Updates
 ------
 
-* **October 2023** | Excited to present our machine learning for deceased donor kidney allocation project at INFORMS Annual Meeting in Phoenix this October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
+* **October 2023** Excited to present our machine learning for deceased donor kidney allocation project at INFORMS Annual Meeting in Phoenix this October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
 
-* **September 2023** | Looking forward to being a [data science scholar](https://datascience.stanford.edu/news/welcome-2024-2025-cohort-data-science-scholars) for the next two years! Also super excited to be a part of the 2023b class of the [Google CS research mentorship program](https://research.google/outreach/csrmp/)
+* **September 2023** Looking forward to being a [data science scholar](https://datascience.stanford.edu/news/welcome-2024-2025-cohort-data-science-scholars) for the next two years! Also super excited to be a part of the 2023b class of the [Google CS research mentorship program](https://research.google/outreach/csrmp/)
 
-* **July 2023** | Thrilled to chair a session on [organ allocation modeling and policy](https://www.abstractsonline.com/pp8/#!/10855/session/91) and present our machine learning for deceased donor kidney allocation project at INFORMS Healthcare
+* **July 2023** Thrilled to chair a session on [organ allocation modeling and policy](https://www.abstractsonline.com/pp8/#!/10855/session/91) and present our machine learning for deceased donor kidney allocation project at INFORMS Healthcare
 
-* **June 2023** | Attended the [Mathematics and Computer Science of Market and Mechanism Design](https://www.slmath.org/summer-schools/1016) summer school at MSRI
+* **June 2023** Attended the [Mathematics and Computer Science of Market and Mechanism Design](https://www.slmath.org/summer-schools/1016) summer school at MSRI
 
-* **December 2022** | Presented part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health as a spotlight presentation ✨
+* **December 2022** Presented part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health as a spotlight presentation ✨
 
 
 
