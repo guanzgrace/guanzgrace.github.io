@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am a fourth year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, working with [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau) and [Itai Ashlagi](https://web.stanford.edu/~iashlagi/). I'm interested in the intersection of machine learning and market design, and my current research focuses on leveraging the vast amount of data that exists today to improve equity and efficiency in healthcare markets while informing policy decisions. I'm grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/), the [Stanford Data Science Scholarship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program) (2023-2025), and the [Stanford Technology & Racial Equity Graduate Fellowship](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) (2022-2023). 
 
-In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://profiles.stanford.edu/barbara-engelhardt). I formerly interned at [Columbia Business School](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations), [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
+In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://profiles.stanford.edu/barbara-engelhardt). I formerly interned at [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
 
 In my free time, you can find me weightlifting, swimming, and hiking.
 
@@ -20,6 +20,8 @@ You can reach me at gzguan at stanford dot edu.
 
 Updates
 ------
+
+* **January 2024** Our paper ["Resource utilization and costs associated with approaches to identify infants with early onset sepsis"](https://doi.org/10.1177/2381468323122612) has been published in Medical Decision Making: Policy & Practice! [(link to twitter thread)](https://twitter.com/guanzgrace/status/1751989970112548925)
 
 * **October 2023** Excited to present our machine learning for deceased donor kidney allocation project at INFORMS Annual Meeting in Phoenix this October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
 

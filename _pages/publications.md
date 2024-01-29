@@ -15,11 +15,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Preliminary version in NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation).
 
 
-[**Costs and resource utilization of approaches to identify infants with early onset sepsis**]()\
-***Guan G**, Joshi NS, Frymoyer A, Achepohl GD, Dang R, Taylor NK, Salomon JA, Goldhaber-Fiebert JD, and DK Owens* 
-
-
-
 
 ## Conference Publications
 
@@ -32,6 +27,12 @@ MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
 
 
 ## Journal Publications
+
+[**Resource utilization and costs associated with approaches to identify infants with early onset sepsis**](https://doi.org/10.1177/2381468323122612)\
+***Grace Guan**, Neha S. Joshi, Adam Frymoyer, Grace D. Achepohl, Rebecca Dang, N. Kenji Taylor, Joshua A. Salomon, Jeremy D. Goldhaber-Fiebert, and Douglas K. Owens*\
+Medical Decision Making: Policy & Practice, 2024.
+[[paper](https://doi.org/10.1177/2381468323122612)]
+
 
 [**Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**](https://www.nature.com/articles/s41746-022-00683-w)\
 ***Grace Guan**, Merav Mofaz, Gary Qian, Tal Patalon, Erez Shmueli, Dan Yamin, and Margaret L. Brandeau*\
@@ -68,7 +69,7 @@ Princeton Computer Science Senior Thesis\
 ## Non-Archival Conference Talks and Posters
 
 * "Machine learning for deceased donor kidney allocation"
-    - INFORMS Annual Meeting, Phoenix, AZ, 2023 [talk, forthcoming]
+    - INFORMS Annual Meeting, Phoenix, AZ, 2023 [talk]
     - INFORMS Healthcare, Toronto, Canada, 2023 [talk]
     - NeurIPS Learning from Time Series for Health Workshop, New Orleans, LA, 2022 [spotlight talk]
     - INFORMS Annual Meeting, Indianapolis, IN, 2022 [talk by coauthor]
@@ -83,7 +84,7 @@ Princeton Computer Science Senior Thesis\
     - Princeton Research Day, Princeton, NJ, 2018 [poster]
 
 
-* "Costs and resource utilization of approaches to identify infants with early onset sepsis"
+* "Resource utilization and costs associated with approaches to identify infants with early onset sepsis"
     - The Decision Sciences for Child Health Collaborative at SMDM, Virtual, 2021 [invited talk]
     - SMDM Annual Meeting, Virtual, 2021 [poster]
     - Pediatric Hospital Medicine Conference, Virtual, 2021 [poster]
