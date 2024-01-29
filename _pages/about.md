@@ -21,7 +21,7 @@ You can reach me at gzguan at stanford dot edu.
 Updates
 ------
 
-* **January 2024** Our paper ["Resource utilization and costs associated with approaches to identify infants with early onset sepsis"](https://doi.org/10.1177/2381468323122612) has been published in Medical Decision Making: Policy & Practice! [(link to twitter thread)](https://twitter.com/guanzgrace/status/1751989970112548925)
+* **January 2024** Our paper ["Resource utilization and costs associated with approaches to identify infants with early onset sepsis"](https://doi.org/10.1177/23814683231226129) has been published in Medical Decision Making: Policy & Practice! [(link to twitter thread)](https://twitter.com/guanzgrace/status/1751989970112548925)
 
 * **October 2023** Excited to present our machine learning for deceased donor kidney allocation project at INFORMS Annual Meeting in Phoenix this October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
 

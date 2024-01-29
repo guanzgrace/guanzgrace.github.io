@@ -28,10 +28,10 @@ MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
 
 ## Journal Publications
 
-[**Resource utilization and costs associated with approaches to identify infants with early onset sepsis**](https://doi.org/10.1177/2381468323122612)\
+[**Resource utilization and costs associated with approaches to identify infants with early onset sepsis**](https://doi.org/10.1177/23814683231226129)\
 ***Grace Guan**, Neha S. Joshi, Adam Frymoyer, Grace D. Achepohl, Rebecca Dang, N. Kenji Taylor, Joshua A. Salomon, Jeremy D. Goldhaber-Fiebert, and Douglas K. Owens*\
-Medical Decision Making: Policy & Practice, 2024.
-[[paper](https://doi.org/10.1177/2381468323122612)]
+Medical Decision Making: Policy & Practice, 2024, 9(1)\
+[[paper](https://doi.org/10.1177/23814683231226129)]
 
 
 [**Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**](https://www.nature.com/articles/s41746-022-00683-w)\
