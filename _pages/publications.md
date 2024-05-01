@@ -16,14 +16,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 [**Using dynamic information to improve decision making in deceased donor kidney allocation**]()\
-*Itai Ashlagi,* ***Grace Guan,*** *Sanjit Neelam, Alvin Roth, Paulo Somaini, and Joachim Studnia (alphabetical)*\
+*Itai Ashlagi,* ***Grace Guan,*** *Sanjit Neelam, Alvin Roth, Paulo Somaini, and Joachim Studnia (alphabetical)*
 
 
 ## Conference Publications
 
 [**Predicting sick patient volume in a pediatric outpatient setting using time series analysis**](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)\
 ***Grace Guan**, Barbara Engelhardt*\
-MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106:271-287\
+MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106: 271-287\
 [[paper](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] [[code](https://github.com/guanzgrace/predicting-patient-volume)]\
 🏆 Won 2020 [NCWIT Collegiate Award Honorable Mention](https://www.aspirations.org/news/2020-ncwit-collegiate-award-recipients-announced)
 
@@ -41,8 +41,8 @@ Clinical Transplantation, 2024, 38(5): e15323\
 [**Resource utilization and costs associated with approaches to identify infants with early onset sepsis**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/)\
 ***Grace Guan**, Neha S. Joshi, Adam Frymoyer, Grace D. Achepohl, Rebecca Dang, N. Kenji Taylor, Joshua A. Salomon, Jeremy D. Goldhaber-Fiebert, and Douglas K. Owens*\
 Medical Decision Making: Policy & Practice, 2024, 9(1)\
-[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/)]
-🌟 Invited talk at the Decision Sciences for Child Health Collaborative at SMDM, 2021
+[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/)]\
+🌟 Invited talk at the 2021 Decision Sciences for Child Health Collaborative at SMDM
 
 
 [**Higher sensitivity monitoring of reactions to COVID-19 vaccination using smartwatches**](https://www.nature.com/articles/s41746-022-00683-w)\
