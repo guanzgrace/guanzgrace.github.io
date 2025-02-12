@@ -5,14 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=xcJ3x40AAAAJ&hl=en">my Google Scholar profile</a>.
+<a href="https://scholar.google.com/citations?user=xcJ3x40AAAAJ&hl=en">Google Scholar link</a>.
 
 
 ## Organ allocation
-
-[**Using dynamic information to improve decision making in deceased donor kidney allocation**]()\
-***Grace Guan**, Sanjit Neelam, Joachim Studnia, Michael A. Rees, Alvin E. Roth, Paulo Somaini, and Itai Ashlagi*\
-Working paper
 
 
 [**Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation**](https://pubmed.ncbi.nlm.nih.gov/38690616/)\

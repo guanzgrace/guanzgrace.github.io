@@ -8,22 +8,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fifth year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, working with [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau) and [Itai Ashlagi](https://web.stanford.edu/~iashlagi/). I'm interested in using data science and machine learning to solve operations and market design problems in healthcare while informing policy decisions. I'm grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/), the [Stanford Data Science Scholarship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program) (2023-2025), and the [Stanford Technology & Racial Equity Graduate Fellowship](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) (2022-2023). 
+I am a fifth year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, working with [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau) and [Itai Ashlagi](https://web.stanford.edu/~iashlagi/). My research focuses on using data science and machine learning to solve operations and market design problems while informing policy decisions. I'm grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/), the [Stanford Data Science Scholarship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program) (2023-2025), and the [Stanford Technology & Racial Equity Graduate Fellowship](https://ccsre.stanford.edu/programs/technology-racial-equity-graduate-fellowship) (2022-2023). 
 
-In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://profiles.stanford.edu/barbara-engelhardt). I formerly interned at [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
+In 2020, I graduated from Princeton with a BS in Computer Science with minors in [Global Health & Health Policy](https://globalhealth.princeton.edu/) and [Statistics & Machine Learning](https://csml.princeton.edu/), where I was fortunate to work with [Mark Braverman](https://mbraverm.princeton.edu/) and [Barbara Engelhardt](https://profiles.stanford.edu/barbara-engelhardt). I formerly interned at [Lyft](https://lyft.com/), [DeepMind](https://deepmind.com/) Health, [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
 
 In my free time, you can find me weightlifting, swimming, and hiking.
 
 You can reach me at gzguan at stanford dot edu.
-
-[Link to my CV](https://drive.google.com/file/d/17SoBp7t2NAmZMDf0a1w4YG38mx5zj2De/view?usp=sharing)
 
 Updates
 ------
 
 * **May 2024** ["Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation"](https://pubmed.ncbi.nlm.nih.gov/38690616/) has been published in Clinical Transplantation!
 
-* **January 2024** Our paper ["Resource utilization and costs associated with approaches to identify infants with early onset sepsis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/) has been published in Medical Decision Making: Policy & Practice! [(link to twitter thread)](https://twitter.com/guanzgrace/status/1751989970112548925)
+* **January 2024** Our paper ["Resource utilization and costs associated with approaches to identify infants with early onset sepsis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/) has been published in Medical Decision Making: Policy & Practice!
 
 * **October 2023** Excited to present our machine learning for deceased donor kidney allocation project at INFORMS Annual Meeting in Phoenix this October [(link to session info)](https://www.abstractsonline.com/pp8/#!/10856/session/478)
 
