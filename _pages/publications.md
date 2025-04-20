@@ -17,7 +17,7 @@ During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased
 **Guan** et al. [**Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation.**](https://pubmed.ncbi.nlm.nih.gov/38690616/) Clinical Transplantation, 2024, 38(5): e15323
 
 
-Agarwal, Ashlagi, **Guan** et al. (alphabetical)[**Time-constrained decision making in deceased donor kidney allocation**]()\
+Agarwal, Ashlagi, **Guan** et al. (alphabetical) [**Time-constrained decision making in deceased donor kidney allocation**]()\
 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation)
 
 
