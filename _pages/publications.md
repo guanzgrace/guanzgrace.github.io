@@ -11,8 +11,7 @@ During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased
 ## Organ Allocation
 
 
-**Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**]() Forthcoming in Transplantation.
-
+**Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025. [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
 
 **Guan** et al. [**Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation.**](https://pubmed.ncbi.nlm.nih.gov/38690616/) Clinical Transplantation, 2024, 38(5): e15323
 
@@ -24,7 +23,7 @@ Agarwal, Ashlagi, **Guan** et al. (alphabetical) [**Time-constrained decision ma
 ## Hospital Operations and Health Policy
 
 
-Dupenloup, **Guan** et al. [**Assessing the financial sustainability of a virtual clinic providing comprehensive diabetes care.**]() Forthcoming in Journal of Diabetes Science and Technology.
+Dupenloup, **Guan** et al. [**Assessing the financial sustainability of a virtual clinic providing comprehensive diabetes care.**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12075182/) Journal of Diabetes Science and Technology, 2025.
 
 
 **Guan** et al. [**Resource utilization and costs associated with approaches to identify infants with early onset sepsis.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826394/) Medical Decision Making: Policy & Practice, 2024, 9(1)\

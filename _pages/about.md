@@ -23,6 +23,8 @@ You can reach me at gzguan at stanford dot edu.
 Updates
 ------
 
+* **May 2025** ["Insights from refusal patterns for deceased donor kidney offers"](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) has been published in Transplantation! [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
+
 * **April 2025** Gave a talk "How Data-driven Insights Can Inform National Organ Allocation Policy" at Princeton Global Health Policy [(link)](https://globalhealth.princeton.edu/events/2025/how-data-driven-insights-can-inform-national-organ-allocation-policy)
 
 * **May 2024** ["Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation"](https://pubmed.ncbi.nlm.nih.gov/38690616/) has been published in Clinical Transplantation!
