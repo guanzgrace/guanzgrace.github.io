@@ -10,15 +10,24 @@ During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased
 
 ## Organ Allocation
 
+**Guan**, et al. [**Machine learning predictions for assessing hard-to-place deceased donor kidneys.**]() Kidney Medicine, 2025.
 
-**Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025. [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
 
-**Guan** et al. [**Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation.**](https://pubmed.ncbi.nlm.nih.gov/38690616/) Clinical Transplantation, 2024, 38(5): e15323
+<div class="greybox">
 
+**Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025.\
+💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
+
+</div>
+
+**Guan**, Ashlagi, and Melcher. [**Transplant surgeons already account for inaccuracies in the Kidney Donor Profile Index (KDPI) calculation.**](https://pubmed.ncbi.nlm.nih.gov/38690616/) Clinical Transplantation, 2024, 38(5): e15323
+
+<div class="greybox">
 
 Agarwal, Ashlagi, **Guan** et al. (alphabetical) [**Time-constrained decision making in deceased donor kidney allocation**]()\
 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation)
 
+</div>
 
 ## Hospital Operations and Health Policy
 
