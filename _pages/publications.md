@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased donor organ allocation (most of this work is forthcoming). I also worked on various projects in hospital operations and health policy. For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=xcJ3x40AAAAJ&hl=en">Google Scholar</a>.
+During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased donor organ allocation (most of this work is forthcoming). I also worked on various projects in hospital operations and health policy. For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=xcJ3x40AAAAJ&hl=en">Google Scholar</a>!
 
 
 ## Organ Allocation
@@ -15,8 +15,10 @@ During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased
 
 <div style="background:#f0f0f0; padding:1em; border-radius:5px; margin-bottom:0;">
 
+{::markdown}
 **Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025.\
 💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
+{:/markdown}
 
 </div>
 
@@ -24,8 +26,10 @@ During my PhD, I worked with Itai Ashlagi and Nobel laureate Al Roth on deceased
 
 <div style="background:#f0f0f0; padding:1em; border-radius:5px; margin-bottom:0;">
 
+{::markdown}
 Agarwal, Ashlagi, **Guan** et al. (alphabetical) [**Time-constrained decision making in deceased donor kidney allocation**]()\
 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation)
+{:/markdown}
 
 </div>
 
