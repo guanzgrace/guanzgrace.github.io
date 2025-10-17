@@ -31,7 +31,7 @@ Updates
 
 * **April 2025** Gave a talk "How Data-driven Insights Can Inform National Organ Allocation Policy" at Princeton Global Health Policy [(link)](https://globalhealth.princeton.edu/events/2025/how-data-driven-insights-can-inform-national-organ-allocation-policy)
 
-* **Summer 2024** I interned at [Lyft](https://lyft.com/), where I developed a matching algorithm change and designed an A/B test, resulting in a successfully shipped feature.
+* **Summer 2024** I interned at [Lyft](https://lyft.com/) on the Matching team, where I developed a matching algorithm change and designed an A/B test, resulting in a successfully shipped feature.
 
 * **December 2022** Presented part of our machine learning for deceased donor kidney allocation project at NeurIPS 2022 Workshop on Learning from Time Series for Health as a spotlight presentation ✨
 

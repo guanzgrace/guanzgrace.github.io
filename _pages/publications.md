@@ -15,13 +15,13 @@ My PhD research was on **matching** and **market design** using **data science**
 
 Specifically, I developed heuristics [1] and a **machine learning tool** [2, 3] to predict when a deceased donor kidney would be at risk of nonuse. I designed a **switchback experiment** [4] with organ procurement organizations to assess the causal effect of the machine learning tool on medical decision making. I also designed alternative allocation policies with principles from **mechanism design** to improve efficiency and equity [5]. I built a kidney allocation policy **simulator** in C/C++/Python to evaluate these alternative policies.
 
-1. **Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025.\
-> 💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html)
+A subset of publications from this work:
+
+1. **Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025. 💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html) 💡
 
 2. **Guan**, et al. [**Machine learning predictions for assessing hard-to-place deceased donor kidneys.**]() Kidney Medicine, 2025.
 
-3. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Time-constrained decision making in deceased donor kidney allocation**]()\
-> 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation)
+3. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Time-constrained decision making in deceased donor kidney allocation**]() 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation) 🌟
 
 4. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Artificial Intelligence to Enhance Organ Procurement Organization Coordinators' Decisions to Expedite.**]() Technical Report.
 
