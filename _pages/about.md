@@ -9,16 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student at Stanford, where I worked with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) and [Al Roth](https://marketdesigner.blogspot.com/2025/10/grace-guan-defends-her-dissertation-at.html). My PhD research was on matching and market design using data science tools (ML and experimentation). I have become increasingly interested in other applications of AI in marketplaces, AI safety, and the impacts that AI will have on society.
+I am a final year PhD student at Stanford, where I worked with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) and [Al Roth](https://marketdesigner.blogspot.com/2025/10/grace-guan-defends-her-dissertation-at.html) and was grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/) and the [Stanford Data Science Scholarship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). My PhD research was on matching and market design using data science tools (ML and experimentation). I have become increasingly interested in other applications of AI in marketplaces, AI safety, and the impacts that AI will have on society.
 
 Prior to my PhD, I graduated from Princeton with a BSE in Computer Science with a minor in [Statistics & Machine Learning](https://csml.princeton.edu/). During undergrad, I interned at [DeepMind](https://deepmind.com/), [Google](https://google.com/), and [Two Sigma](https://www.twosigma.com).
 
-I'm grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/) and the [Stanford Data Science Scholarship](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program).
-
-In my free time, you can find me weightlifting, swimming, and hiking. I also enjoy going to museums and learning about art history. I was a tour guide and student outreach chair for the Princeton University Art Museum and have written many [blog posts](https://puamsab.princeton.edu/?s=grace+guan) about art.
-
 You can reach me at gzguan at stanford dot edu.
-
 
 
 Updates
@@ -40,6 +35,8 @@ Updates
 
 
 
-Other Projects
+Other
 ------
 * [Stretch Reminder Chrome Extension](http://guanzgrace.github.io/stretch) ([Beta Test Version](http://guanzgrace.github.io/stretch/beta)) (1000+ daily users!)
+
+* In my free time, you can find me weightlifting, swimming, and hiking. I also enjoy going to museums and learning about art history. I was a tour guide and student outreach chair for the Princeton University Art Museum and have written many [blog posts](https://puamsab.princeton.edu/?s=grace+guan) about art.
