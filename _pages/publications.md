@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am interested in AI safety and societal impacts.
+I am interested in AI in marketplaces, AI safety, and societal impacts.
 
 
 ## Organ Allocation
