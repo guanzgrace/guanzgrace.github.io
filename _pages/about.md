@@ -17,12 +17,16 @@ Prior to my PhD, I graduated from Princeton with a BSE in Computer Science with 
 
 You can reach me at gzguan at stanford dot edu.
 
+---
+---
 
 # Projects
 
 ## More projects
 
 Coming soon!
+
+---
 
 ## Organ Allocation Research
 
@@ -34,15 +38,11 @@ My PhD research was on **market design (matching)**: Improving the complex kidne
 
 A subset of publications from this work:
 
-1. **Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025.
-
-💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html) 💡
+1. **Guan** et al. [**Insights from refusal patterns for deceased donor kidney offers.**](https://journals.lww.com/transplantjournal/fulltext/9900/insights_from_refusal_patterns_for_deceased_donor.1089.aspx) Transplantation, 2025. 💡 [Market deisgn blog link](https://marketdesigner.blogspot.com/2025/05/the-deceased-donor-waiting-list-for.html) 💡
 
 2. **Guan**, et al. [**Machine learning predictions for assessing hard-to-place deceased donor kidneys.**]() Kidney Medicine, 2025.
 
-3. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Time-constrained decision making in deceased donor kidney allocation**]()
-
-🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation) 🌟
+3. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Time-constrained decision making in deceased donor kidney allocation**]() 🌟 NeurIPS 2022 Workshop on Learning from Time Series for Health (spotlight presentation) 🌟
 
 4. Agarwal, Ashlagi, **Guan**, Somaini, Zou. [**Artificial Intelligence to Enhance Organ Procurement Organization Coordinators' Decisions to Expedite.**]() Technical Report.
 
@@ -51,6 +51,9 @@ A subset of publications from this work:
 
 - [Picture from my defense!](https://marketdesigner.blogspot.com/2025/10/grace-guan-defends-her-dissertation-at.html)
 - In April 2025, I gave a talk about this work (["How Data-driven Insights Can Inform National Organ Allocation Policy"](https://globalhealth.princeton.edu/events/2025/how-data-driven-insights-can-inform-national-organ-allocation-policy)) at Princeton Global Health Policy
+
+
+---
 
 
 ## Selected health policy research
@@ -67,6 +70,9 @@ Princeton Computer Science Senior Thesis\
 
 **Guan** and Engelhardt. [**Predicting sick patient volume in a pediatric outpatient setting using time series analysis.**](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf) MLHC 2019: *Proceedings of Machine Learning Research*, 2019, 106: 271-287\
 🏆 Won 2020 [NCWIT Collegiate Award Honorable Mention](https://www.aspirations.org/news/2020-ncwit-collegiate-award-recipients-announced)
+
+
+---
 
 
 ## Stretch Reminder Chrome Extension
